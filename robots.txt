@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://itylacti.github.io/sitemap.itylacti.gz
+Sitemap: https://itylacti.github.io/app/sitemap.itylacti.gz
+Sitemap: https://itylacti.github.io/assets/sitemap.itylacti.gz
+Sitemap: https://itylacti.github.io/css/sitemap.itylacti.gz
+Sitemap: https://itylacti.github.io/data/sitemap.itylacti.gz
+Sitemap: https://itylacti.github.io/includes/sitemap.itylacti.gz
+Sitemap: https://itylacti.github.io/item/sitemap.itylacti.gz
+Sitemap: https://itylacti.github.io/src/sitemap.itylacti.gz
